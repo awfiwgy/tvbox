@@ -1,6 +1,5 @@
 {  
   "spider": "https://jihulab.com/iduoduo/xduo/-/raw/main/main.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB",
- // "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
 
   "lives": 
   [
@@ -44,7 +43,7 @@
         "日韩动漫",
         "国产剧",
         "香港剧",
-        "短剧片",
+        "短剧",
         "伦理片",
         "动作片",
         "喜剧片",
@@ -83,7 +82,7 @@
         "日韩动漫",
         "国产剧",
         "香港剧",
-        "短剧片",
+        "短剧",
         "伦理片",
         "动作片",
         "喜剧片",
@@ -108,7 +107,6 @@
         "欧美动漫"
       ]
     }
-
   ],
   "parses":[
         {"name": "超级嗅探","type": 3,"url": "Web"},
