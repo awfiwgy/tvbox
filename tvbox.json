@@ -29,17 +29,6 @@
       "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+auto|4k|fhd$$$https://wogg.xyz/"
     },    
     {
-      "key": "csp_appys_影探",
-      "name": "📛TH┃影探2K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ytcms.lfytyl.com/api.php/app/",
-      "jar": "https://pan.shangui.cc/f/y76EsK/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%948.jar"
-    },
-    {
       "key": "csp_非凡资源",
       "name": "📛TH┃非凡资源",
       "type": 1,
@@ -293,7 +282,7 @@
      {"key":"*我要啪啪","name":"🈴我要啪啪","type":0,"api":"http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*大屌丝资源","name":"🈴大屌丝资源","type":0,"api":"http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"zp059","name":"🈴番号资源","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"*色猫资源","name":"🈴色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+     {"key":"*色猫资源","name":"🈴色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
      {"key": "探探资源","name": "🔞探探资源","type": 1,"api": "https://apittzy.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
      {"key": "91麻豆","name": "🔞91麻豆源","type": 1,"api": "https://91md.me/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
      {"key":"*速度资源","name":"🔞速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
@@ -302,11 +291,7 @@
      {"key": "KOK资源","name": "🔞KOK资源","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
      {"key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
      {"key":"*鲨鱼资源","name":"🔞鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-     
-     {"key": "15","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "16","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-
-      {
+     {
 "key": "csp_xBPQ_超清",
 "name": "🚸香蕉超清",
 "type": 3,
@@ -416,8 +401,6 @@
                 "国产传媒"
             ]
         },
-     {"key": "17","name": "⇣⇣⇣⇣20230827⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "18","name": "⇣⇣⇣⇣20230827⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},        
     {
       "key": "量子",
       "name": "🈶量子伦理",
