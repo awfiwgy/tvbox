@@ -246,9 +246,6 @@
         "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉搜索.json"
      },
       {"key":"*大地资源","name":"🏆大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
-
-     {"key": "3","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "4","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {
        "key":"*一本道资源",
        "name":"🈴一本道资源",
@@ -297,10 +294,6 @@
      {"key":"*大屌丝资源","name":"🈴大屌丝资源","type":0,"api":"http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"zp059","name":"🈴番号资源","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"*色猫资源","name":"🈴色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-
-     {"key": "1","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "2","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-
      {"key": "探探资源","name": "🔞探探资源","type": 1,"api": "https://apittzy.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
      {"key": "91麻豆","name": "🔞91麻豆源","type": 1,"api": "https://91md.me/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
      {"key":"*速度资源","name":"🔞速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
@@ -640,11 +633,6 @@
         "ratio": 1.33
       }
     },
-
-     {"key": "10","name": "📛精选自用且免费📛","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "11","name": "📛请勿付费使用📛","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "12","name": "📛微信公众号📛","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "13","name": "📛挺好分享📛","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0}
     
     
   ],
