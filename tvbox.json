@@ -18,7 +18,17 @@
   "warningText": "每次打开记得长按主页刷新！",
   "sites": [
     {
-      "key": "csp_WoGG",
+      "key": "csp_WoGG3",
+      "name": "➰‍TH┃玩偶┃DM",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
+    },
+    {
+      "key": "csp_WoGG2",
       "name": "➰‍TH┃玩偶哥哥4K",
       "type": 3,
       "playerType": 2,
@@ -27,6 +37,66 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+auto|4k|fhd$$$https://wogg.xyz/"
+    },    
+    {
+      "key": "csp_WoGG",
+      "name": "➰‍TH┃玩偶4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+    },
+    {
+      "key": "csp_WoGG1",
+      "name": "➰‍TH┃玩偶4KBY",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://wogg.xyz/"
+    },    
+    {
+      "key": "js_4KHDR",
+      "name": "➰TH┃玩偶姐姐",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/4KHDR.js"
+     },
+     {
+      "key": "csp_woggcli",
+      "name": "➰TH┃俊哥玩偶.T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/tok.txt"
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "➰TH┃玩偶.饭",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
+    },
+    {
+      "key": "Czspp",
+      "name": "🕺TH┃厂长影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czzy88.com/"
     },    
     {
       "key": "csp_非凡资源",
@@ -121,7 +191,7 @@
         "searchable":1, 
         "quickSearch":1
      },
-    {
+     {
       "key": "老鸭",
       "name": "🈵成人影视2",
       "type": 1,
@@ -173,7 +243,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
+     },
      {
       "key": "csp_xBPQ_香蕉超清",
       "name": "🏆蜜桃淫荡",
@@ -233,9 +303,9 @@
         "quickSearch": 1,
         "filterable": 0,
         "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉搜索.json"
-     },
+      },
       {"key":"*大地资源","name":"🏆大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
-     {
+      {
        "key":"*一本道资源",
        "name":"🈴一本道资源",
        "type":0,
@@ -312,7 +382,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.33
-      }
+    }
     },
 
     {"key": "玉兔专场","name": "🚸玉兔采集","type": 1,"api": "https://apiyutu.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
@@ -400,17 +470,6 @@
                 "AI换脸",
                 "国产传媒"
             ]
-        },
-    {
-      "key": "量子",
-      "name": "🈶量子伦理",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
     },
     {
       "key": "dadiapi1.com",
@@ -423,8 +482,8 @@
         "type": "rect",
         "ratio": 1.33
       }
-    },
-       {
+      },
+      {
       "key": "91md.me",
       "name": "🈶成人05",
       "type": 1,
@@ -434,7 +493,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.33
-      }
+    }
     },
     {
       "key": "cjmygzy.com",
@@ -446,7 +505,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.33
-      }
+    }
     },
     {
       "key": "bttcj.com",
@@ -458,7 +517,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.33
-      }
+    }
     },
     {
       "key": "api.sexnguon.com",
@@ -470,9 +529,9 @@
       "style": {
         "type": "rect",
         "ratio": 1.33
-      }
+    }
     },
-        {
+    {
       "key": "feifei67.com",
       "name": "🈶成人09",
       "type": 1,
@@ -482,7 +541,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.33
-      }
+    }
     },
     {
       "key": "fhapi9.com",
@@ -494,7 +553,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.33
-      }
+    }
     },
     {
       "key": "api.maozyapi.com",
@@ -506,7 +565,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.33
-      }
+    }
     },
     {
       "key": "pgxdy.com",
@@ -518,7 +577,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.33
-      }
+    }
     },
     {
       "key": "msnii.com",
