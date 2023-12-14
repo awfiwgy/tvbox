@@ -17,6 +17,18 @@
 
   "warningText": "每次打开记得长按主页刷新！",
   "sites": [
+    {"key":"巧技三","name":"巧技三","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"},
+    {"key":"巧技一","name":"巧技一","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"},
+    {
+      "key": "csp_动漫巴士",
+      "name": "🤖┃动漫┃巴士",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/动漫巴士.json"
+    },
     {
       "key": "csp_WoGG3",
       "name": "➰‍TH┃玩偶┃DM",
