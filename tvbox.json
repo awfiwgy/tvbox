@@ -1,6 +1,7 @@
 {  
   "spider": "https://jihulab.com/iduoduo/xduo/-/raw/main/main.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB",
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+  "spider":"http://cdn.qiaoji8.com/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 
   "lives": 
   [
@@ -27,7 +28,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/动漫巴士.json"
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/awfiwgy/tvbox/main/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
     },
     {
       "key": "csp_WoGG3",
