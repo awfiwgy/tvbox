@@ -89,6 +89,14 @@
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
     },
     {
+      "key": "蓝猫动漫",
+      "name": "🌊┃蓝猫┃动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "分类:国漫$1#日漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+    },
+    {
       "key": "csp_Ysgc",
       "name": "🎬️TH┃影视工厂",
       "type": 3,
