@@ -209,7 +209,7 @@
     },
     {
       "key": "索尼资源",
-      "name": "📛TH┃索尼",
+      "name": "📛TH┃索尼资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "categories": [
