@@ -1,21 +1,18 @@
 {  
-  "spider": "https://jihulab.com/iduoduo/xduo/-/raw/main/main.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB",
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 
+  
   "lives": 
   [
   {"name": "live",
   "type": 0,
-  "url":"http://111.67.196.189/tvbox/tv/thtv.txt",
+  "url":"http://thfx.xyz/tvbox/tv/thtv.txt",
   "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
   }
   ],
 
-  "wallpaper": "https://yydsys.top/bg.php",
-
-  "wallpaper":"http://maoyingshi.cc/api.php",
-
   "warningText": "每次打开记得长按主页刷新！",
+
   "sites": [
     {
       "key": "csp_WoGG3",
