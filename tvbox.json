@@ -254,16 +254,6 @@
       "quickSearch": 1
     },
     {
-      "key": "csp_动漫巴士",
-      "name": "🤖┃动漫┃巴士",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/动漫巴士.json"
-    },
-    {
     "key": "直播转点播2",
     "name": "📛TH┃福利点播",
     "type": 3,
