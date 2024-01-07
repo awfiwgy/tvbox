@@ -228,76 +228,194 @@
       "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
     },
     {"key": "moduzy","name": "魔都动漫资源 ","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
+{
+      "key":"玩偶哥哥PG",
+      "name":"玩偶┃PG",
+      "type":3,
+      "api":"csp_Wogg",
+      "quickSearch":1, 
+      "changeable":1, 
+      "filterable":1, 
+      "timeout":30, 
+      "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"
+    },
     {
-      "key": "csp_WoGG2",
-      "name": "➰‍TH┃玩偶哥哥4K",
+      "key": "玩偶OG",
+      "name": "玩偶┃OG",
       "type": 3,
-      "playerType": 2,
-      "api": "csp_WoGG",
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+auto|4k|fhd$$$https://wogg.xyz/"
-    },    
-    {
-      "key": "csp_WoGG",
-      "name": "➰‍TH┃玩偶4K",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+      "jar": "./jar/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8",
+      "ext": "./JS/gg.json"
     },
     {
       "key": "csp_WoGG1",
-      "name": "➰‍TH┃玩偶4KBY",
+      "name": "玩偶┃FS",
       "type": 3,
       "api": "csp_WoGG",
+      "jar": "./jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://wogg.xyz/"
-    },    
-    {
-      "key": "csp_woggcli",
-      "name": "➰‍TH┃玩偶(cli)",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "阿里token"
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
     },
     {
-      "key": "js_4KHDR",
-      "name": "➰TH┃玩偶姐姐",
+      "key": "csp_WoGG2",
+      "name": "玩偶┃XM",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.js",
+      "api": "csp_WoGG",
+      "jar": "./jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/4KHDR.js"
-     },
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
+    },
+    {
+            "key": "csp_XYQHikerAL",
+            "name": "玩偶┃HK",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/xyq.jar",
+            "ext": "./JS/玩偶哥哥.json"
+    },
+    {"key": "玩我哥哥","name":"玩偶┃WO","type":3,"api":"csp_XYQHikerAL", "jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/玩我哥哥.json"}, 
      {
-      "key": "csp_woggcli",
-      "name": "➰TH┃俊哥玩偶.T4",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "key": "Wogg1",
+      "name": "玩偶┃GG",
+      "type": 3,
+      "api": "csp_Wogg",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/tok.txt"
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "filter": "./JS/wogg.json",
+        "danmu": false
+      },
+      "jar": "./jar/danmu.jar"
     },
     {
-      "key": "csp_WoGG",
-      "name": "➰TH┃玩偶.饭",
+      "key": "玩偶弹幕版",
+      "name": "玩偶┃DM",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "filter": "./JS/wogg.json",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+    {
+      "key":"玩偶表哥PG",
+      "name":"玩偶┃BG",
+      "type":3,
+      "api":"csp_Wobg",
+      "quickSearch":1, 
+      "changeable":1, 
+      "filterable":1, 
+      "timeout":30, 
+      "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
+    },
+    {
+      "key": "Wobg",
+      "name": "玩偶┃BP",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "api": "csp_Wobg",
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$http://wobge.run.goorm.io"
+    },
+    {
+     "key": "csp_WoGG3",
+     "name": "玩偶┃BY",
+     "type": 3,
+     "style": {
+       "type": "rect",
+       "ratio": 0.8
+     },
+     "api": "csp_WoGG",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "jar": "./JS/rski.js",
+     "ext": "7984abb3f03c447196459eebd03eda63" 
+    },
+   {
+      "key": "初见表哥",
+      "name": "玩偶┃BZ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./jar/表哥.jar;md5;0ab5d5c3db5f5d26ea4f44d2278b87ac",
+      "ext": {
+        "二次截取": "1&&-1+module-item-cover",
+        "数组": "module-item-pic&&module-item-cover",
+        "副标题": "module-item-text*>&&<",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "简介": "剧情：&&</div>",
+        "搜索url": "http://www.214728327.xyz:56708/index.php/vodsearch/-------------.html?wd={wd}",
+        "分类url": "http://www.214728327.xyz:56708/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}.html;;阿里",
+        "阿里token": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+        "分类": "电影$1#剧集$2#综艺$4#动漫$3#短剧$5#音乐$6"
+      }
+    },
+    {
+      "key":"影视车",
+      "name":"阿狸┃YS",
+      "type":3,
+      "api":"csp_Wogg",
+      "quickSearch":1, 
+      "changeable":1, 
+      "filterable":1, 
+      "timeout":30, 
+      "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"
+    },
+    {
+      "key":"Hdhive",
+      "name":"阿狸┃YC",
+      "type":3,
+      "api":"csp_Hdhive",
+      "quickSearch":1, 
+      "changeable":1, 
+      "filterable":1, 
+      "timeout":30, 
+      "ext":"./lib/tokenm.json$$$null$$$1"
+    },
+    {
+      "key": "Gitcafe1",
+      "name": "阿狸┃GT",
+      "type": 3,
+      "api": "csp_Paper",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
+      "jar": "./HeChengChaXiu.jar",
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
+    },
+    {
+      "key":"Pan99",
+      "name":"阿狸┃PJ",
+      "type":3,
+      "api":"csp_Pan99",
+      "quickSearch":1, 
+      "changeable":1, 
+      "filterable":1, 
+      "timeout":30, 
+      "ext":"./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"
     },
     {
       "key": "直播转点播2",
