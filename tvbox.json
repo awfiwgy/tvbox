@@ -10,6 +10,8 @@
   }
   ],
 
+  "warningText": "每次打开记得长按主页刷新！",
+
   "sites": [
     {
       "key": "量子资源",
@@ -258,36 +260,6 @@
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://wogg.xyz/"
     },    
-    {
-      "key": "js_4KHDR",
-      "name": "➰TH┃玩偶姐姐",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/4KHDR.js"
-     },
-     {
-      "key": "csp_woggcli",
-      "name": "➰TH┃俊哥玩偶.T4",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/tok.txt"
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "➰TH┃玩偶.饭",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
-    },
     {
       "key": "直播转点播2",
       "name": "📛TH┃福利点播",
