@@ -221,6 +221,22 @@
       "ext": "https://www.czzy88.com/"
     },
     {
+      "key":"csp_Dm84",
+      "name":"🚌动漫┃巴士",
+      "type":3,
+      "api":"csp_Dm84",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1},
+    {
+      "key": "巴士",
+      "name": "巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
       "key": "moduzy",
       "name": "🌙TH┃魔都动漫资源 ",
       "type": 1,
@@ -337,28 +353,10 @@
       "filterable": 0
     },
     {
-      "key": "*点点娱乐",
-      "name": "🈴点点娱乐",
-      "type": 0,
-      "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "*淫水机资源",
       "name": "🈴淫水机",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*小湿妹资源",
-      "name": "🈴小湿妹",
-      "type": 0,
-      "api": "https://www.afasu.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -388,14 +386,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "*鲨鱼资源",
-      "name": "🔞鲨鱼资源",
-      "type": 1,
-      "api": "https://shayuapi.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
     },
     {
       "key": "dadiapi.com",
@@ -546,7 +536,7 @@
     },
     {
       "key": "91md.me",
-      "name": "🈶成人05",
+      "name": "🈶成人02",
       "type": 1,
       "api": "http://91md.me/api.php/provide/vod/",
       "searchable": 1,
@@ -558,7 +548,7 @@
     },
     {
       "key": "cjmygzy.com",
-      "name": "🈶成人06",
+      "name": "🈶成人03",
       "type": 0,
       "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -570,7 +560,7 @@
     },
     {
       "key": "bttcj.com",
-      "name": "🈶成人07",
+      "name": "🈶成人04",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
@@ -582,7 +572,7 @@
     },
     {
       "key": "api.sexnguon.com",
-      "name": "🈶成人08",
+      "name": "🈶成人05",
       "type": 1,
       "api": "http://api.sexnguon.com/api.php/provide/vod/",
       "searchable": 1,
@@ -594,7 +584,7 @@
     },
     {
       "key": "feifei67.com",
-      "name": "🈶成人09",
+      "name": "🈶成人06",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
       "searchable": 1,
@@ -606,7 +596,7 @@
     },
     {
       "key": "api.maozyapi.com",
-      "name": "🈶成人33",
+      "name": "🈶成人07",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 1,
@@ -618,7 +608,7 @@
     },
     {
       "key": "pgxdy.com",
-      "name": "🈶成人39",
+      "name": "🈶成人08",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
@@ -630,7 +620,7 @@
     },
     {
       "key": "msnii.com",
-      "name": "🈶成人40",
+      "name": "🈶成人09",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -642,7 +632,7 @@
     },
     {
       "key": "kkzy.me",
-      "name": "🈶成人45",
+      "name": "🈶成人10",
       "type": 1,
       "api": "https://kkzy.me/api.php/provide/vod/",
       "searchable": 1,
@@ -654,7 +644,7 @@
     },
     {
       "key": "xrbsp.com",
-      "name": "🈶成人46",
+      "name": "🈶成人11",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -666,7 +656,7 @@
     },
     {
       "key": "kxgav.com",
-      "name": "🈶成人48",
+      "name": "🈶成人12",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -678,7 +668,7 @@
     },
     {
       "key": "gdlsp.com",
-      "name": "🈶成人49",
+      "name": "🈶成人13",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
