@@ -1,5 +1,7 @@
 {  
   "spider":"./pg.jar",
+  "wallpaper":"https://api.likepoems.com/img/bing",
+  "warningText": "每次打开记得长按主页刷新！",
 
   "lives": 
   [
@@ -9,8 +11,6 @@
   "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
   }
   ],
-
-  "warningText": "每次打开记得长按主页刷新！",
 
   "sites": [
     {
@@ -230,7 +230,7 @@
       "quickSearch": 1,
       "filterable": 1
       },
-  	{
+      {
       "key":"玩偶哥哥PG",
       "name":"玩偶┃PG",
       "type":3,
@@ -240,8 +240,8 @@
       "filterable":1, 
       "timeout":30, 
       "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"
-    },
-    {
+      },
+      {
       "key": "玩偶OG",
       "name": "玩偶┃OG",
       "type": 3,
@@ -251,8 +251,8 @@
       "filterable": 1,
       "jar": "./jar/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8",
       "ext": "./JS/gg.json"
-    },
-    {
+      },
+      {
       "key": "csp_WoGG1",
       "name": "玩偶┃FS",
       "type": 3,
@@ -262,8 +262,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
-    },
-    {
+      },
+      {
       "key": "csp_WoGG2",
       "name": "玩偶┃XM",
       "type": 3,
@@ -273,8 +273,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
-    },
-    {
+      },
+      {
             "key": "csp_XYQHikerAL",
             "name": "玩偶┃HK",
             "type": 3,
@@ -284,9 +284,9 @@
             "filterable": 1,
             "jar": "./jar/xyq.jar",
             "ext": "./JS/玩偶哥哥.json"
-    },
-    {"key": "玩我哥哥","name":"玩偶┃WO","type":3,"api":"csp_XYQHikerAL", "jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/玩我哥哥.json"}, 
-     {
+      },
+      {"key": "玩我哥哥","name":"玩偶┃WO","type":3,"api":"csp_XYQHikerAL", "jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/玩我哥哥.json"}, 
+      {
       "key": "Wogg1",
       "name": "玩偶┃GG",
       "type": 3,
@@ -300,8 +300,8 @@
         "danmu": false
       },
       "jar": "./jar/danmu.jar"
-    },
-    {
+      },
+      {
       "key": "玩偶弹幕版",
       "name": "玩偶┃DM",
       "type": 3,
@@ -315,8 +315,8 @@
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
-    },
-    {
+      },
+      {
       "key":"玩偶表哥PG",
       "name":"玩偶┃BG",
       "type":3,
