@@ -1,7 +1,4 @@
 {
-  "spider": "./jar/fm.jar",
-  "wallpaper":"https://api.likepoems.com/img/bing",
-  "warningText": "每次打开记得长按主页刷新！",
 
   "lives": 
   [
@@ -211,6 +208,14 @@
       ]
     },
     {
+      "key": "暴風",
+      "name": "📛TH┃暴风资源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "玩偶哥哥",
       "name": "👽玩偶哥哥┃4K弹幕不断流",
       "type": 3,
@@ -238,7 +243,8 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "ext": "https://www.maolvys.com/"
     },
     {
       "key": "moduzy",
