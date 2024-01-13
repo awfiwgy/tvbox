@@ -1,16 +1,21 @@
-{
-  "spider": "./spider.jar",
+{  
+  "spider": "./jar/fm.jar",
 
+  
   "lives": 
   [
-  {"name": "live",
+  {"name": "THTV",
   "type": 0,
-  "url":"https://pan.shangui.cc/f/10bzTw/v%EF%BC%88%E5%8A%A0%E5%AF%86%E7%A0%81%EF%BC%891.txt",
+  "url":"http://ztha.top/TVBox/tv/thtv.txt",
   "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
   }
   ],
 
+
+  "warningText": "【挺好分享】接口免费，每次打开记得长按主页刷新！",
+
   "sites": [
+
     {
       "key": "量子资源",
       "name": "📛TH┃量子资源",
@@ -244,8 +249,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.maolvys.com/"
+      "changeable": 1
     },
     {
       "key": "moduzy",
@@ -1012,6 +1016,8 @@
       "filterable": 1,
       "jar": "https://codeberg.org/wuyou/TVBox/raw/branch/main/jar/Yoursmile18%E4%B8%93%E7%94%A8.jar"
     }
+
+
   ],
   "parses":[
 
