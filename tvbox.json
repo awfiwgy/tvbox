@@ -252,16 +252,6 @@
       "changeable": 1
     },
     {
-      "key": "moduzy",
-      "name": "🌙TH┃魔都动漫资源 ",
-      "type": 1,
-      "api": "https://www.moduzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      },
-    {
       "key": "虎牙",
       "name": "🐯虎牙采集",
       "type": 1,
