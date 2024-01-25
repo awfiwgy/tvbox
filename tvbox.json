@@ -2,15 +2,12 @@
   "spider": "./jar/fm.jar",
 
   
-  "lives": 
-  [
-  {"name": "THTV",
-  "type": 0,
-  "url":"http://ztha.top/TVBox/tv/thtv.txt",
-  "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-  }
-  ],
-
+"lives":[
+    {"group":"redirect",
+     "channels":[
+    {"name":"redirect",
+     "urls":["proxy://do=live&type=txt&ext=aHR0cDovL3p0aGEudG9wL1RWQm94L3R2L3RodHYudHh0"]}]}
+    ],
 
   "warningText": "【挺好分享】接口免费，每次打开记得长按主页刷新！",
 
@@ -1016,8 +1013,6 @@
       "filterable": 1,
       "jar": "https://codeberg.org/wuyou/TVBox/raw/branch/main/jar/Yoursmile18%E4%B8%93%E7%94%A8.jar"
     }
-
-
   ],
   "parses":[
 
