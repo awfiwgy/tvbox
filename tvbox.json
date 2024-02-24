@@ -1,16 +1,25 @@
-{
+{  
+  "spider": "./jar/fan.jar",
 
+  
 "lives":[
     {"group":"redirect",
      "channels":[
     {"name":"redirect",
-     "urls":["proxy://do=live&type=txt&ext=aHR0cDovL3p0aGEudG9wL1RWQm94L3R2L3RodHYudHh0"]}]}
+     "urls":["http://adultiptv.net/videos.m3u8"]}]}
     ],
 
   "warningText": "长按主页刷新！",
 
   "sites": [
 
+    {
+      "key": "drpy_T4聚合",
+      "name": "📛公众号【挺好分享】24/2/18",
+      "type": 3,
+      "api": "./JS/lib/drpy2.min.js",
+      "ext": "./JS/js/drpy.js"
+    },
     {
       "key": "量子资源",
       "name": "📛TH┃量子资源",
@@ -215,6 +224,48 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key": "南瓜",
+      "name": "🇹┃南瓜2K┃秒播",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.maolvys.com/"
+    },
+     {
+      "key": "玩偶哥哥",
+      "name": "📛玩偶4K┃弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
+     {
+       "key": "csp_XBPQ_6V",
+       "name": "📛TH┃挺好4K",
+       "type": 3,
+       "api": "csp_XBPQ",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext":"./BFWJ/jss/挺好4K.json",
+       "jar":"./BFWJ/jar/0606.jar"
+     },
+    {
+      "key": "Czspp",
+      "name": "🕺TH┃厂长影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czzy88.com/"
     },
     {
       "key": "moduzy",
