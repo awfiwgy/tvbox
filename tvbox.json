@@ -1,4 +1,5 @@
 {
+"spider": "http://ztha.top/TVBox/jar/fan.jar",
 
 "lives":[
     {"group":"redirect",
@@ -11,6 +12,38 @@
 
   "sites": [
 
+    {
+      "key": "南瓜",
+      "name": "📛TH┃南瓜APP",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.maolvys.com/"
+    },
+     {
+      "key": "玩偶哥哥",
+      "name": "📛玩偶4K┃弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
+    {
+      "key": "Czsapp",
+      "name": "📛TH┃厂长影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy55.com/"
+     },
     {
       "key": "量子资源",
       "name": "📛TH┃量子资源",
@@ -226,13 +259,6 @@
       "quickSearch": 1,
       "filterable": 1
       },
-    {
-      "key": "直播转点播2",
-      "name": "📛TH┃福利点播",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/apiv53zbzdb.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/dbiptv69.json"
-    },
     {
       "key": "chengren",
       "name": "🈵成人影视1",
